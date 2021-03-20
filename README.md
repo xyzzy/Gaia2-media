@@ -1,8 +1,13 @@
+---
+layout: home
+title: "Gaia2-media - Media files for: Gaia2"
+---
+
 # Gaia2-media
 
 ### Welcome to the Wonderful World of particle movement
 
-This project contains the media files for [https://github.com/xyzzy/Gaia2](https://github.com/xyzzy/Gaia2)
+This project contains the media files for: [https://github.com/xyzzy/Gaia2](https://github.com/xyzzy/Gaia2)
 
 ## Versioning
 
