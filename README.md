@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Gaia2-media - Media files for: Gaia2"
+image: assets/favimage-840x472.jpg
 ---
 
 # Gaia2-media
@@ -14,10 +15,19 @@ This project contains the media files for: [https://github.com/xyzzy/Gaia2](http
  - [Gaia2-1080p-ZZ-3x3.mp4](Gaia2-1080p-ZZ-3x3.mp4)
    The original Gaia2
 
-<video width="840" height="472" controls>
-  <source src="Gaia2-1080p-ZZ-3x3.mp4" type="video/mp4">
-Your browser does not support the &lt;video&gt; tag.
-</video>
+{% include video.html
+   url="Gaia2-1080p-ZZ-3x3.mp4"
+   poster="assets/favimage-840x472.jpg" %}
+
+## Source code
+
+Checkout the latest code:
+
+```sh
+  git clone https://github.com/xyzzy/Gaia2-media.git
+```
+
+There are no releases due to their size.
 
 ## Versioning
 

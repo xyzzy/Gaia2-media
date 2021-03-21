@@ -1,10 +1,10 @@
 title: "Gaia2-media"
 author: "xyzzy@RockingShip.org"
 url: https://xyzzy.github.io # root address of the site
-description: "Media files for: Gaia2"
-#favicon: assets/favicon-32.png
-#favicon152: assets/favicon-152.png
-#favicon192: assets/favicon-192.png
+description: "Media files for: `Gaia2`"
+favicon: assets/favicon-32.png
+favicon152: assets/favicon-152.png
+favicon192: assets/favicon-192.png
 
 # jekyll settings
 remote_theme: RockingShip/moonwalk
@@ -27,5 +27,4 @@ highlighter: rouge
 
 plugins:
   - jekyll-feed
-#  - jekyll-seo-tag
-  - jekyll-redirect-from
+  - jekyll-seo-tag
