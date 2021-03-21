@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Gaia2-media - Media files for: Gaia2"
+title: "Gaia2-media - Media files for `Gaia2`"
 image: assets/favimage-840x472.jpg
 ---
 
@@ -10,10 +10,12 @@ image: assets/favimage-840x472.jpg
 
 This project contains the media files for: [https://github.com/xyzzy/Gaia2](https://github.com/xyzzy/Gaia2)
 
+The original version with soundtrack, sadly uploaded with a lower bitrate resulting in visual artifacts:  
+  [https://www.youtube.com/watch?v=FbvfnwMSHno](https://www.youtube.com/watch?v=FbvfnwMSHno)
+
 ## Manifest
 
  - [Gaia2-1080p-ZZ-3x3.mp4](Gaia2-1080p-ZZ-3x3.mp4)
-   The original Gaia2
 
 {% include video.html
    url="Gaia2-1080p-ZZ-3x3.mp4"
