@@ -2,24 +2,18 @@ navbar_entries:
   - title: "showcase"
     url: https://xyzzy.github.io
 
-  - title: "xyzzy@github"
-    url: https://github.com/xyzzy
+  - title: "Gaia2"
+    url: https://xyzzy.github.io/Gaia2/README.html
 
   - title: "Gaia2-media@github"
     url: https://github.com/xyzzy/Gaia2-media
-
-  - title: "README@Gaia2"
-    url: https://xyzzy.github.io/Gaia2/README
 
 footer_entries:
   - title: "showcase"
     url: https://xyzzy.github.io
 
-  - title: "xyzzy@github"
-    url: https://github.com/xyzzy
+  - title: "Gaia2"
+    url: https://xyzzy.github.io/Gaia2/README.html
 
   - title: "Gaia2-media@github"
     url: https://github.com/xyzzy/Gaia2-media
-
-  - title: "README@Gaia2"
-    url: https://xyzzy.github.io/Gaia2/README
